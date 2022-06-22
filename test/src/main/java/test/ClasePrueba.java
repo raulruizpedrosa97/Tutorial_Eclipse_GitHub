@@ -6,5 +6,7 @@ public class ClasePrueba {
 	//Comentario
 	
 	//Comentario añadido desde GITHUB!!
+	
+	//Otro comentario
 
 }
